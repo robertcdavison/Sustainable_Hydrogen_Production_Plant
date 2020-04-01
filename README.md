@@ -21,6 +21,8 @@ Assuming a 2-year construction period, we estimate that a total capital investme
 The resultant economics are profitable, but do not fall in the acceptable range for a chemical plant. However, due to the environmental advantages of a CO2-neutral fuel source, it is likely that people would be willing to pay more in the future for fuel if it is clean. Further calculations found that if the sale price of the hydrogen product increases by 28.0% to $1,670 per MT, the proposed plant would yield a positive NPV% of 10.0% per year after 12 years of operation. Under these assumptions, this design appears promising and would merrit further investigation. 
 
 ---
+[Full Written Report](https://github.com/robertcdavison/Sustainable_Hydrogen_Production_Plant/blob/master/Full-Report.pdf)
+---
 
 ## Process Flow Diagram
 
